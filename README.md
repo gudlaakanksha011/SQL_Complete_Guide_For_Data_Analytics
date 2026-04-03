@@ -10,6 +10,7 @@
    * RFM Analysis: Segmenting customers based on Recency, Frequency, and Monetary value.
    * Churn Prediction: Identifying users who haven't made a purchase in $X$ days
 4. Repository StructureShow how the files are organized so you can navigate easily.
+
 Plaintext
 
 ├── 01_Basics/
