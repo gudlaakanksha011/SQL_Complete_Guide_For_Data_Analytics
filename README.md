@@ -9,22 +9,6 @@
    * "Cohort Analysis: Using SQL to track user retention over time.
    * RFM Analysis: Segmenting customers based on Recency, Frequency, and Monetary value.
    * Churn Prediction: Identifying users who haven't made a purchase in $X$ days
-4. Repository StructureShow how the files are organized so you can navigate easily.
-
-Plaintext
-
-├── 01_Basics/
-│   ├── basic_syntax.sql
-│   └── filtering_data.sql
-├── 02_Intermediate/
-│   ├── joins_and_unions.sql
-│   └── aggregations.sql
-├── 03_Advanced/
-│   ├── window_functions.sql
-│   └── ctes_and_subqueries.sql
-└── 04_Real_World_Projects/
-    ├── ecommerce_sales_analysis.sql
-    └── marketing_attribution.sql
-5. Tech Stack & EnvironmentMention the dialect of SQL you are using, as there are slight variations in syntax.
+4. Tech Stack & EnvironmentMention the dialect of SQL you are using, as there are slight variations in syntax.
     Database: PostgreSQL / MySQL / SQL Server / BigQuery.
     Tools: MySQL Workbench.
